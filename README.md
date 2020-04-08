@@ -18,3 +18,4 @@ fgsdfgsdfgsdfgsdfgsdfgs
 
 test upgrading
 test upgrading again
+test sync
